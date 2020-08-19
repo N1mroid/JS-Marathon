@@ -20,3 +20,10 @@ console.log(noValue);
 // console.log(!!'asd') -> converts a string into true. ! false
 
 // Functions
+
+let abonement = "Кингуру купил абонемент в спортзал";
+console.log(abonement.length);
+
+for (let i = 0; i < abonement.length; i++) {
+    console.log(abonement.charAt(i));    
+}
