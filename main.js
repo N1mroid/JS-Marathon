@@ -18,3 +18,5 @@ console.log(noValue);
 // console.log(concat + {}) -> [object Object]
 // Number('10') -> converts a string into number or (+'10')
 // console.log(!!'asd') -> converts a string into true. ! false
+
+// Functions
